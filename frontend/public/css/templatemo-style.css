@@ -28,6 +28,10 @@ body
 #portfolio .fp-slide,
 #portfolio .fp-tableCell,
 
+#pentest,
+#pentest .fp-slide,
+#pentest .fp-tableCell,
+
 footer,
 footer .fp-slide,
 footer .fp-tableCell
@@ -46,7 +50,7 @@ h1,h2,h3,h4,h5
 /* end all heading */
 
 /* start all section */
-#work, #about, #portfolio, #contact
+#work, #about, #portfolio, #contact, #pentest
     {
         padding-top: 100px;
         padding-bottom: 120px;
